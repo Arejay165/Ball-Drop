@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7291964467841402900
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7291964467841402898}
+  - component: {fileID: 7291964467841402901}
+  - component: {fileID: 7291964467841402899}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7291964467841402898
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7291964467841402900}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7291964467841402901
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7291964467841402900}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7034227f9b1577c48a810a101c086f35, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coinText: {fileID: 0}
+  pointText: {fileID: 0}
+  scoreText: {fileID: 0}
+  highscoreText: {fileID: 0}
+  beforeAdText: {fileID: 0}
+  afterAdText: {fileID: 0}
+  deathScoreText: {fileID: 0}
+  currentPoint: 0
+  currentCoin: 0
+  currentScore: 0
+  coinsRef: 0
+  pointsRef: 0
+  playerTransform: {fileID: 0}
+  score: 0
+  highscore: 0
+  spawnLoc: {fileID: 0}
+  coinAddSelect: 1
+  pointAddSelect: 1
+  characterChoose: 0
+  uIManager: {fileID: 0}
+  adManager: {fileID: 0}
+  designHighScoreImage: {fileID: 0}
+  levelManager: {fileID: 0}
+  checkMark: {fileID: 3619063077934430100, guid: 61edcae207ac4034cbbac46adee7ef8f,
+    type: 3}
+  crossMark: {fileID: 1428525116675810703, guid: 61edcae207ac4034cbbac46adee7ef8f,
+    type: 3}
+  checkers:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  lockedImage: {fileID: 598863795358881688, guid: 3d804bc0b39a7c740a73fa14b8f6ed1e,
+    type: 3}
+  challenges:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  levelImage:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  coinManager: {fileID: 0}
+  spawnPoint: {fileID: 0}
+--- !u!114 &7291964467841402899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7291964467841402900}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37edcbe422608254f9efe69f15f7b568, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rend: {fileID: 0}
+  mats:
+  - {fileID: 2100000, guid: 16be3bc6df518fe41ad9cac2e5919c35, type: 2}
+  - {fileID: 2100000, guid: 15a33c56436e48447bdb56aab343e09b, type: 2}
+  - {fileID: 2100000, guid: 9d1443003be57a3448ced6a4d7535b32, type: 2}
+  - {fileID: 2100000, guid: ed06ea8c67eb2f04e9c8349070061911, type: 2}
+  - {fileID: 2100000, guid: 23f7513ec416b78429fece50292fc839, type: 2}
+  - {fileID: 2100000, guid: debd50db4f719934caf44877c44686fc, type: 2}
+  - {fileID: 2100000, guid: bc37b060cb8097e439f0ec51be18d9cd, type: 2}
+  characters:
+  - {fileID: 11400000, guid: 740fb76dcff52bb4dac85ee1a27a4b82, type: 2}
+  - {fileID: 11400000, guid: 6459c6f2789da9d429d34f3ad6102ff2, type: 2}
+  - {fileID: 11400000, guid: e03710aae3a2b644e8b5ba93236b7350, type: 2}
+  - {fileID: 11400000, guid: 56c0dfa0c72638742bf0a61f2bc61319, type: 2}
+  - {fileID: 11400000, guid: 14074f36cf662c0409ba119e79844be9, type: 2}
+  - {fileID: 11400000, guid: 28bdc2a026529c24b85b6ab5e8ff23df, type: 2}
+  - {fileID: 11400000, guid: c6ee19152d1c04f4096d3ea96f89556a, type: 2}
+  characterNumber: 0
+  currentCoin: 0
+  currentPoint: 0
+  pointText: {fileID: 0}
+  coinText: {fileID: 0}
+  refRend: {fileID: 0}
+  unlock: {fileID: 0}
+  fillSpeed: 0.5
+  slideRef: 0
+  isClick: 0
+  uIManager: {fileID: 0}

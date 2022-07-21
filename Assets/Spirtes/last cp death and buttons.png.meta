@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: a40322d9c2f10744db8317429deefdfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7398799781176725654
+    second: last cp death and buttons_0
+  - first:
+      213: 786731839090390780
+    second: last cp death and buttons_1
+  - first:
+      213: -1614695730136668523
+    second: last cp death and buttons_2
+  - first:
+      213: -3952791173632303171
+    second: last cp death and buttons_3
+  - first:
+      213: -7517196414491419189
+    second: last cp death and buttons_4
+  - first:
+      213: 708107366335690678
+    second: last cp death and buttons_5
+  - first:
+      213: 4843677254899338713
+    second: last cp death and buttons_6
+  - first:
+      213: 7155330783364413331
+    second: last cp death and buttons_7
+  - first:
+      213: -3218816700189628800
+    second: last cp death and buttons_8
+  - first:
+      213: 4679785530804597446
+    second: last cp death and buttons_9
+  - first:
+      213: -4470606934777274524
+    second: last cp death and buttons_10
+  - first:
+      213: 6483439563976343795
+    second: last cp death and buttons_11
+  - first:
+      213: 1120984449048556670
+    second: last cp death and buttons_12
+  - first:
+      213: 5684350001478442918
+    second: last cp death and buttons_13
+  - first:
+      213: 4038868308978696963
+    second: last cp death and buttons_14
+  - first:
+      213: 7053679599990413523
+    second: last cp death and buttons_15
+  - first:
+      213: 5860709108652535747
+    second: last cp death and buttons_16
+  - first:
+      213: -6870240867184074283
+    second: last cp death and buttons_17
+  - first:
+      213: -208035486892841539
+    second: last cp death and buttons_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: last cp death and buttons_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1814
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690d6415331dda660800000000000000
+      internalID: 7398799781176725654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1820
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6f87a70780bea00800000000000000
+      internalID: 786731839090390780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_2
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1791
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5962dd8d9c27799e0800000000000000
+      internalID: -1614695730136668523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_3
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1829
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfd850de5dd429c0800000000000000
+      internalID: -3952791173632303171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1417
+        width: 27
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd166750bd8da790800000000000000
+      internalID: -7517196414491419189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1416
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7b641e5e3b3d900800000000000000
+      internalID: 708107366335690678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_6
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1415
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd0ae8ecc2383340800000000000000
+      internalID: 4843677254899338713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_7
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1417
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3977ad8df67dc4360800000000000000
+      internalID: 7155330783364413331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_8
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1415
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0862a14e3477453d0800000000000000
+      internalID: -3218816700189628800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 743
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2fe9c4520f1f040800000000000000
+      internalID: 4679785530804597446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 895
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fd33adda635f1c0800000000000000
+      internalID: -4470606934777274524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_11
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 743
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f00685ceedc9f950800000000000000
+      internalID: 6483439563976343795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 642
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74b64cca698e8f00800000000000000
+      internalID: 1120984449048556670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 329
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af1d19953ed2ee40800000000000000
+      internalID: 5684350001478442918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 326
+        width: 177
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30302430451fc0830800000000000000
+      internalID: 4038868308978696963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_15
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 329
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d819d46934b3e160800000000000000
+      internalID: 7053679599990413523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 129
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf612902eb655150800000000000000
+      internalID: 5860709108652535747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 132
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d12f16d45008a0a0800000000000000
+      internalID: -6870240867184074283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last cp death and buttons_18
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 107
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5a31fa3d8ec1df0800000000000000
+      internalID: -208035486892841539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5789ea4691ce99843a398a19de777fb6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      last cp death and buttons_5: 708107366335690678
+      last cp death and buttons_6: 4843677254899338713
+      last cp death and buttons_11: 6483439563976343795
+      last cp death and buttons_15: 7053679599990413523
+      last cp death and buttons_8: -3218816700189628800
+      last cp death and buttons_2: -1614695730136668523
+      last cp death and buttons_17: -6870240867184074283
+      last cp death and buttons_18: -208035486892841539
+      last cp death and buttons_12: 1120984449048556670
+      last cp death and buttons_14: 4038868308978696963
+      last cp death and buttons_0: 7398799781176725654
+      last cp death and buttons_1: 786731839090390780
+      last cp death and buttons_7: 7155330783364413331
+      last cp death and buttons_13: 5684350001478442918
+      last cp death and buttons_10: -4470606934777274524
+      last cp death and buttons_4: -7517196414491419189
+      last cp death and buttons_9: 4679785530804597446
+      last cp death and buttons_16: 5860709108652535747
+      last cp death and buttons_3: -3952791173632303171
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

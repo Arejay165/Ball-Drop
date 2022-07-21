@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: b608c9881b01ea74fad985d60abcc49e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1839760533271516474
+    second: noadsVersion_0
+  - first:
+      213: -6601989049899004363
+    second: noadsVersion_1
+  - first:
+      213: -5922772248145363274
+    second: noadsVersion_2
+  - first:
+      213: 7491722059304262117
+    second: noadsVersion_3
+  - first:
+      213: -4482611595516320934
+    second: noadsVersion_4
+  - first:
+      213: 6446655471792712809
+    second: noadsVersion_5
+  - first:
+      213: -5111918354190404766
+    second: noadsVersion_6
+  - first:
+      213: 8112024245441815652
+    second: noadsVersion_7
+  - first:
+      213: 3443124288051978401
+    second: noadsVersion_8
+  - first:
+      213: 8953552684770931423
+    second: noadsVersion_9
+  - first:
+      213: 7703969252882261561
+    second: noadsVersion_10
+  - first:
+      213: 6355876799330303196
+    second: noadsVersion_11
+  - first:
+      213: -7619355152907968769
+    second: noadsVersion_12
+  - first:
+      213: 3074492342307602655
+    second: noadsVersion_13
+  - first:
+      213: 4787433218142705031
+    second: noadsVersion_14
+  - first:
+      213: -3716511093541075579
+    second: noadsVersion_15
+  - first:
+      213: -2416551877427748801
+    second: noadsVersion_16
+  - first:
+      213: -2591575869940182680
+    second: noadsVersion_17
+  - first:
+      213: 8393346200241419973
+    second: noadsVersion_18
+  - first:
+      213: 5116214100004165554
+    second: noadsVersion_19
+  - first:
+      213: 1807203787233634262
+    second: noadsVersion_20
+  - first:
+      213: 2627415998551227078
+    second: noadsVersion_21
+  - first:
+      213: -7459668053476269096
+    second: noadsVersion_22
+  - first:
+      213: -4762342519827487647
+    second: noadsVersion_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noadsVersion_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1691
+        width: 213
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a359e612574288910800000000000000
+      internalID: 1839760533271516474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_1
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1646
+        width: 344
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e40cd10f50164a0800000000000000
+      internalID: -6601989049899004363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1376
+        width: 189
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bef0cf35061ecda0800000000000000
+      internalID: -5922772248145363274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1423
+        width: 579
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9d9c42581f7f760800000000000000
+      internalID: 7491722059304262117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1195
+        width: 132
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53e337f0809ac1c0800000000000000
+      internalID: -4482611595516320934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1182
+        width: 356
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c6889eefe177950800000000000000
+      internalID: 6446655471792712809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_6
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1199
+        width: 192
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2637ea94751de09b0800000000000000
+      internalID: -5111918354190404766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 956
+        width: 240
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4646ae66213b39070800000000000000
+      internalID: 8112024245441815652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 953
+        width: 238
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0abda2c4f68cf20800000000000000
+      internalID: 3443124288051978401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_9
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 952
+        width: 239
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd234859ab8614c70800000000000000
+      internalID: 8953552684770931423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 736
+        width: 784
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9362496d73ff9ea60800000000000000
+      internalID: 7703969252882261561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 591
+        width: 132
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcba3c264c943850800000000000000
+      internalID: 6355876799330303196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 613
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffed0658bdc924690800000000000000
+      internalID: -7619355152907968769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 613
+        width: 392
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd047e7fe7acaaa20800000000000000
+      internalID: 3074492342307602655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 508
+        width: 293
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7851d41a521607240800000000000000
+      internalID: 4787433218142705031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 516
+        width: 138
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5858fa1f9dc4c6cc0800000000000000
+      internalID: -3716511093541075579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 356
+        width: 161
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30ad94fedea67ed0800000000000000
+      internalID: -2416551877427748801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 312
+        width: 486
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861ddbf1a7fd80cd0800000000000000
+      internalID: -2591575869940182680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 138
+        width: 213
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6b34636e72b7470800000000000000
+      internalID: 8393346200241419973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_19
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 132
+        width: 213
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7d799fd91700740800000000000000
+      internalID: 5116214100004165554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_20
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 198
+        width: 138
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d72dcef44a741910800000000000000
+      internalID: 1807203787233634262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 25
+        width: 293
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caf2d61ee4767420800000000000000
+      internalID: 2627415998551227078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_22
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 25
+        width: 138
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3a73aad6fe97890800000000000000
+      internalID: -7459668053476269096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noadsVersion_23
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 64
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164a1fec5b2c8edb0800000000000000
+      internalID: -4762342519827487647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 91dc7901513a1ba4c86462ca9914c23e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      noadsVersion_23: -4762342519827487647
+      noadsVersion_16: -2416551877427748801
+      noadsVersion_12: -7619355152907968769
+      noadsVersion_19: 5116214100004165554
+      noadsVersion_8: 3443124288051978401
+      noadsVersion_2: -5922772248145363274
+      noadsVersion_5: 6446655471792712809
+      noadsVersion_3: 7491722059304262117
+      noadsVersion_9: 8953552684770931423
+      noadsVersion_1: -6601989049899004363
+      noadsVersion_7: 8112024245441815652
+      noadsVersion_18: 8393346200241419973
+      noadsVersion_17: -2591575869940182680
+      noadsVersion_6: -5111918354190404766
+      noadsVersion_21: 2627415998551227078
+      noadsVersion_14: 4787433218142705031
+      noadsVersion_4: -4482611595516320934
+      noadsVersion_13: 3074492342307602655
+      noadsVersion_15: -3716511093541075579
+      noadsVersion_11: 6355876799330303196
+      noadsVersion_22: -7459668053476269096
+      noadsVersion_20: 1807203787233634262
+      noadsVersion_0: 1839760533271516474
+      noadsVersion_10: 7703969252882261561
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

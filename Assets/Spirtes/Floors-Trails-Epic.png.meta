@@ -1,0 +1,1307 @@
+fileFormatVersion: 2
+guid: a89764ff1b378d4408ff64b7b95b5733
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 478082324643826221
+    second: Floors-Trails-Epic_0
+  - first:
+      213: -3350922626588159479
+    second: Floors-Trails-Epic_1
+  - first:
+      213: 7216324143861044787
+    second: Floors-Trails-Epic_2
+  - first:
+      213: -5784836043010526056
+    second: Floors-Trails-Epic_3
+  - first:
+      213: -1895884916218212655
+    second: Floors-Trails-Epic_4
+  - first:
+      213: -4700847512931644121
+    second: Floors-Trails-Epic_5
+  - first:
+      213: 2358458831156502430
+    second: Floors-Trails-Epic_6
+  - first:
+      213: 1263582084852478546
+    second: Floors-Trails-Epic_7
+  - first:
+      213: -8892187597777276438
+    second: Floors-Trails-Epic_8
+  - first:
+      213: -8332531636007353938
+    second: Floors-Trails-Epic_9
+  - first:
+      213: -7783498030885633584
+    second: Floors-Trails-Epic_10
+  - first:
+      213: -440285859832820779
+    second: Floors-Trails-Epic_11
+  - first:
+      213: -8716045672543263203
+    second: Floors-Trails-Epic_12
+  - first:
+      213: 5178523972622424913
+    second: Floors-Trails-Epic_13
+  - first:
+      213: 2778495555666526868
+    second: Floors-Trails-Epic_14
+  - first:
+      213: 5298801849012405558
+    second: Floors-Trails-Epic_15
+  - first:
+      213: -2459587212130735243
+    second: Floors-Trails-Epic_16
+  - first:
+      213: 5069611936726005300
+    second: Floors-Trails-Epic_17
+  - first:
+      213: 483279375658555074
+    second: Floors-Trails-Epic_18
+  - first:
+      213: -5941900466133020915
+    second: Floors-Trails-Epic_19
+  - first:
+      213: -5627401157585424141
+    second: Floors-Trails-Epic_20
+  - first:
+      213: 8124462808935849464
+    second: Floors-Trails-Epic_21
+  - first:
+      213: -5646839804465526032
+    second: Floors-Trails-Epic_22
+  - first:
+      213: -6903129999562073872
+    second: Floors-Trails-Epic_23
+  - first:
+      213: -8736382398299995728
+    second: Floors-Trails-Epic_24
+  - first:
+      213: 4839452118789883455
+    second: Floors-Trails-Epic_25
+  - first:
+      213: -4420665469207336544
+    second: Floors-Trails-Epic_26
+  - first:
+      213: 9077237374333199461
+    second: Floors-Trails-Epic_27
+  - first:
+      213: -6860594369928351223
+    second: Floors-Trails-Epic_28
+  - first:
+      213: 7716592309751681668
+    second: Floors-Trails-Epic_29
+  - first:
+      213: -659199451670487571
+    second: Floors-Trails-Epic_30
+  - first:
+      213: 10929945626647101
+    second: Floors-Trails-Epic_31
+  - first:
+      213: -207527238277998344
+    second: Floors-Trails-Epic_32
+  - first:
+      213: -1427287582082981809
+    second: Floors-Trails-Epic_33
+  - first:
+      213: -7076193183458222646
+    second: Floors-Trails-Epic_34
+  - first:
+      213: 5175062320243286214
+    second: Floors-Trails-Epic_35
+  - first:
+      213: 8473489478171878046
+    second: Floors-Trails-Epic_36
+  - first:
+      213: -2411669161870557398
+    second: Floors-Trails-Epic_37
+  - first:
+      213: -7251332308213581925
+    second: Floors-Trails-Epic_38
+  - first:
+      213: 6450769956500238520
+    second: Floors-Trails-Epic_39
+  - first:
+      213: 2959192518334493265
+    second: Floors-Trails-Epic_40
+  - first:
+      213: 8475196862857997083
+    second: Floors-Trails-Epic_41
+  - first:
+      213: 8928329920776636912
+    second: Floors-Trails-Epic_42
+  - first:
+      213: 175067384569208328
+    second: Floors-Trails-Epic_43
+  - first:
+      213: -3058871991247954863
+    second: Floors-Trails-Epic_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1575
+        width: 143
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ac9cd575d72a600800000000000000
+      internalID: 478082324643826221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1600
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902d46400a12f71d0800000000000000
+      internalID: -3350922626588159479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1597
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33699ea3398852460800000000000000
+      internalID: 7216324143861044787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1589
+        width: 526
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8943b7ca44228bfa0800000000000000
+      internalID: -5784836043010526056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1592
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1decac9a6b670b5e0800000000000000
+      internalID: -1895884916218212655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1590
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d4e68d71c33ceb0800000000000000
+      internalID: -4700847512931644121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1588
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f5770bfcdeab020800000000000000
+      internalID: 2358458831156502430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1224
+        width: 141
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252fd202635298110800000000000000
+      internalID: 1263582084852478546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_8
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1268
+        width: 294
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1f95e1e7a989480800000000000000
+      internalID: -8892187597777276438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1256
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1c31cef96ec5c80800000000000000
+      internalID: -8332531636007353938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1252
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d10c1797c57bf390800000000000000
+      internalID: -7783498030885633584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1250
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db890dd75ac3e9f0800000000000000
+      internalID: -440285859832820779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1244
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d166af1f3a26a0780800000000000000
+      internalID: -8716045672543263203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1248
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b1109bd10ddd740800000000000000
+      internalID: 5178523972622424913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1244
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492418d9cf23f8620800000000000000
+      internalID: 2778495555666526868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1241
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63541991530298940800000000000000
+      internalID: 5298801849012405558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1240
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57baad6467acdddd0800000000000000
+      internalID: -2459587212130735243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 875
+        width: 135
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43632ad4231ea5640800000000000000
+      internalID: 5069611936726005300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_18
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 996
+        width: 294
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c696691804f4b600800000000000000
+      internalID: 483279375658555074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 940
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fc961f1012a8da0800000000000000
+      internalID: -5941900466133020915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 937
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0bf71667477e1b0800000000000000
+      internalID: -5627401157585424141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 928
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd5e7521e3efb070800000000000000
+      internalID: 8124462808935849464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 931
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0facb47bd1562a1b0800000000000000
+      internalID: -5646839804465526032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 928
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f892c9f6d72330a0800000000000000
+      internalID: -6903129999562073872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 924
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b18a5ffe7222c680800000000000000
+      internalID: -8736382398299995728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 922
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f368bffbf00392340800000000000000
+      internalID: 4839452118789883455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 550
+        width: 156
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9af0d6d24a6a2c0800000000000000
+      internalID: -4420665469207336544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_27
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 712
+        width: 308
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564a7077c43d8fd70800000000000000
+      internalID: 9077237374333199461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 558
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902306005c54ac0a0800000000000000
+      internalID: -6860594369928351223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 558
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482924b42d7d61b60800000000000000
+      internalID: 7716592309751681668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_30
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 556
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded5c0f579d0ad6f0800000000000000
+      internalID: -659199451670487571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_31
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 436
+        width: 316
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a9d764ab4d62000800000000000000
+      internalID: 10929945626647101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 231
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8d8398317be1df0800000000000000
+      internalID: -207527238277998344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 198
+        width: 139
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f402e959181413ce0800000000000000
+      internalID: -1427287582082981809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_34
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 233
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd9ee97acf4ccd90800000000000000
+      internalID: -7076193183458222646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_35
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 228
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c02c98f2c381d740800000000000000
+      internalID: 5175062320243286214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_36
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 127
+        width: 320
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92e17239c1e79570800000000000000
+      internalID: 8473489478171878046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_37
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 226
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ff0f2cca7088ed0800000000000000
+      internalID: -2411669161870557398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_38
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 226
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97bd945fa71e5b90800000000000000
+      internalID: -7251332308213581925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 224
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b075f8091db58950800000000000000
+      internalID: 6450769956500238520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_40
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 220
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152325dbae9211920800000000000000
+      internalID: 2959192518334493265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 220
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1be72ca4a2fd9570800000000000000
+      internalID: 8475196862857997083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_42
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 217
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9026532ccc7eb70800000000000000
+      internalID: 8928329920776636912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 213
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e1105dbd6fd6200800000000000000
+      internalID: 175067384569208328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors-Trails-Epic_44
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 206
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c164c6124bc85d0800000000000000
+      internalID: -3058871991247954863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6b9f5abfb4f70864ab9998684eb285f3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Floors-Trails-Epic_39: 6450769956500238520
+      Floors-Trails-Epic_0: 478082324643826221
+      Floors-Trails-Epic_26: -4420665469207336544
+      Floors-Trails-Epic_7: 1263582084852478546
+      Floors-Trails-Epic_11: -440285859832820779
+      Floors-Trails-Epic_6: 2358458831156502430
+      Floors-Trails-Epic_43: 175067384569208328
+      Floors-Trails-Epic_19: -5941900466133020915
+      Floors-Trails-Epic_20: -5627401157585424141
+      Floors-Trails-Epic_34: -7076193183458222646
+      Floors-Trails-Epic_41: 8475196862857997083
+      Floors-Trails-Epic_12: -8716045672543263203
+      Floors-Trails-Epic_33: -1427287582082981809
+      Floors-Trails-Epic_35: 5175062320243286214
+      Floors-Trails-Epic_21: 8124462808935849464
+      Floors-Trails-Epic_4: -1895884916218212655
+      Floors-Trails-Epic_1: -3350922626588159479
+      Floors-Trails-Epic_18: 483279375658555074
+      Floors-Trails-Epic_40: 2959192518334493265
+      Floors-Trails-Epic_10: -7783498030885633584
+      Floors-Trails-Epic_2: 7216324143861044787
+      Floors-Trails-Epic_44: -3058871991247954863
+      Floors-Trails-Epic_22: -5646839804465526032
+      Floors-Trails-Epic_15: 5298801849012405558
+      Floors-Trails-Epic_24: -8736382398299995728
+      Floors-Trails-Epic_9: -8332531636007353938
+      Floors-Trails-Epic_16: -2459587212130735243
+      Floors-Trails-Epic_25: 4839452118789883455
+      Floors-Trails-Epic_32: -207527238277998344
+      Floors-Trails-Epic_5: -4700847512931644121
+      Floors-Trails-Epic_14: 2778495555666526868
+      Floors-Trails-Epic_36: 8473489478171878046
+      Floors-Trails-Epic_3: -5784836043010526056
+      Floors-Trails-Epic_17: 5069611936726005300
+      Floors-Trails-Epic_28: -6860594369928351223
+      Floors-Trails-Epic_37: -2411669161870557398
+      Floors-Trails-Epic_27: 9077237374333199461
+      Floors-Trails-Epic_30: -659199451670487571
+      Floors-Trails-Epic_29: 7716592309751681668
+      Floors-Trails-Epic_8: -8892187597777276438
+      Floors-Trails-Epic_13: 5178523972622424913
+      Floors-Trails-Epic_38: -7251332308213581925
+      Floors-Trails-Epic_23: -6903129999562073872
+      Floors-Trails-Epic_42: 8928329920776636912
+      Floors-Trails-Epic_31: 10929945626647101
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
